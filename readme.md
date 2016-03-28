@@ -8,6 +8,7 @@
 ####Output files:
 `tidy.txt`
 
+#### Getting and Cleaning Data Process (run_analysis.R)
 1. Download data file.
 2. Merge the training and the test sets to create one data set.
 3. Extract only the measurements on the mean and standard deviation for each measurement.
